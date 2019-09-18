@@ -1,0 +1,1 @@
+implementation of OR gate in neural networks with keras

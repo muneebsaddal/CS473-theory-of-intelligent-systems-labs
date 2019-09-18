@@ -1,0 +1,1 @@
+implementation of XOR gate in neural networks with keras
